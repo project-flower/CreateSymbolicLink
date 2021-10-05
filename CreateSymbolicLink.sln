@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateSymbolicLink", "CreateSymbolicLink\CreateSymbolicLink.csproj", "{05D46D5C-48DF-4EA9-BDDC-CBCBD892AC79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05D46D5C-48DF-4EA9-BDDC-CBCBD892AC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D46D5C-48DF-4EA9-BDDC-CBCBD892AC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D46D5C-48DF-4EA9-BDDC-CBCBD892AC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D46D5C-48DF-4EA9-BDDC-CBCBD892AC79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82A0580F-2B76-43B3-90A5-3B699494E423}
+	EndGlobalSection
+EndGlobal
